@@ -7,7 +7,7 @@ CHANGE REQUEST INITIATION:   Originator: _Yang Cheng (QA) Phone#: _90515066_ ema
 
 Date Submitted: 09__/_20_/2015_   System/Product/Service Name: VMCS__________________  Version Number: _R 1.0.8______
 
-CONFIGURATION ITEMS IMPACTED:	Software: _  X       Firmware: ___	   Hardware:  ___    Documentation: _X__   Other: __________
+CONFIGURATION ITEMS IMPACTED:	Software: _  X       Firmware: ___	   Hardware:  ___    Documentation: ___   Other: __________
 
 CHANGE TYPE:   New Requirement: ___     Requirement Change: _      Design Change: __      Other: __Code Change_______
 
@@ -33,9 +33,8 @@ Modules Affected: 		       Component		Date Completed	Assigned
 4.  _______________________   	        ____________________ 	______/______/______	_______
 
 Documentation Affected: 		Section #	Page #		Date Completed	Assigned
-1.  DesignModuleReport   	 ___________	________	20_/_09_/2015__	_Bani Jain_
-2.  _______________________   	                ___________	________		______/______/______	_______
-3.  _______________________   		___________	________		______/______/______	_______
+1.  _______________________   	                ___________	________		______/______/______	_______
+2.  _______________________   		___________	________		______/______/______	_______
 
 
 TIME ESTIMATES to make the change:      (Use attachment if necessary.)
@@ -49,10 +48,10 @@ Total Hours:      _2 hrs____	________ 	    	                                   _
 Project Impact Analysis Needed:    Yes / No     (If yes, include impact on budget, resources, schedule, risk etc.)   
 
 
-APPROVALS:	Change Approved: _____       Change Not Approved: ______       Hold (Future Enhancement): ______
+APPROVALS:	Change Approved: __Y___       Change Not Approved: ______       Hold (Future Enhancement): ______
                                       Release Approved: ______                     Release Date: ______
 
-1. Signature ____________________________________________   Designation _____________________	Date: ____/____/____
+1. Signature ___Mukesh Kumar_________________________   Designation __Project Manager_______	Date: __20/_09_/2015
 
 2. Signature ____________________________________________   Designation _____________________	Date: ____/____/____
 
