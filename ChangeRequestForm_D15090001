@@ -27,13 +27,13 @@ Received By: Mukesh Kumar(PM) Date Received: 20/09_/2015 Assigned To: LU Angxiao
 Type of Software/Hardware/etc. Affected Software__________________________________________________________________
 
 Modules Affected: 		       Component		Date Completed	Assigned
-1.  _______________________   	        ____________________	 	______/______/______	_______
+1.  MaintenanceControler___  Maintenance_	 	_20___/_09___/__2015	_Bani Jain______
 2.  _______________________   	        ____________________	 	______/______/______	_______
 3.  _______________________   	        ____________________	 	______/______/______	_______
 4.  _______________________   	        ____________________ 	______/______/______	_______
 
 Documentation Affected: 		Section #	Page #		Date Completed	Assigned
-1.  _______________________   	                ___________	________		______/______/______	_______
+1.  DesignModuleReport   	 ___________	________	20_/_09_/2015__	_Bani Jain_
 2.  _______________________   	                ___________	________		______/______/______	_______
 3.  _______________________   		___________	________		______/______/______	_______
 
@@ -41,15 +41,15 @@ Documentation Affected: 		Section #	Page #		Date Completed	Assigned
 TIME ESTIMATES to make the change:      (Use attachment if necessary.)
 
 Lifecycle Stage    Est. Time	Act. Time	Date Comp.	Action By		Remarks
-Analysis/Design	      __________	__________	____/____/____	__________  ___________________________________
-Coding/Testing	      __________	__________	____/____/____	__________  ___________________________________
-Acceptance	      __________	__________	____/____/____	__________  ___________________________________
-Total Hours:         ________	________ 	    	                                   ____________________________
+Analysis/Design	  _0.5 hrs___	__________	____/____/____	__________  ___________________________________
+Coding/Testing	  _1 hrs__	  __________	____/____/____	__________  ___________________________________
+Acceptance	      _0.5 hrs___	__________	____/____/____	__________  ___________________________________
+Total Hours:      _2 hrs____	________ 	    	                                   ____________________________
 
 Project Impact Analysis Needed:    Yes / No     (If yes, include impact on budget, resources, schedule, risk etc.)   
 
 
-APPROVALS:	Change Approved: ______       Change Not Approved: ______       Hold (Future Enhancement): ______
+APPROVALS:	Change Approved: _____       Change Not Approved: ______       Hold (Future Enhancement): ______
                                       Release Approved: ______                     Release Date: ______
 
 1. Signature ____________________________________________   Designation _____________________	Date: ____/____/____
