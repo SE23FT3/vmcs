@@ -27,24 +27,36 @@ Received By: _Mukesh Kumar (PM) Date Received: _20_/09_/_2015  Assigned To: Lu A
 Type of Software/Hardware/etc. Affected_software____________________________________________________________________
 
 Modules Affected: 		       Component		Date Completed	Assigned
-1.  _______________________   	        ____________________	 	______/______/______	_______
-2.  _______________________   	        ____________________	 	______/______/______	_______
-3.  _______________________   	        ____________________	 	______/______/______	_______
-4.  _______________________   	        ____________________ 	______/______/______	_______
+1.  CoinDisplay__________     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+2.  CoinLabelItem________     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+3.  CoinLabelItemDisplay_     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+4.  MaintenanceController_    Maintenance______ 	    __20__/__09____/_2015_	_Bani__
+5.  MaintenancePanel          Maintenance             __20__/__09____/_2015_	_Bani__
+6. StoreController            Store                   __20__/__09____/_2015_	_Bani__
+7. TotalCashButtonListener    Maintenance             __20__/__09____/_2015_	_Bani__
 
 Documentation Affected: 		Section #	Page #		Date Completed	Assigned
-1.  _______________________   	                ___________	________		______/______/______	_______
-2.  _______________________   	                ___________	________		______/______/______	_______
-3.  _______________________   		___________	________		______/______/______	_______
+1.  DesignModuleReport_____   3.6.6____	34_____		_20__/_09__/_2015	__Bani_____
+2.  DesignModuleReport_____   3.6.7____	35_____		_20__/_09__/_2015	__Bani_____
+3.  DesignModuleReport_____   3.6.9____	37_____		_20__/_09__/_2015	__Bani_____
+4.  DesignModuleReport_____   3.7.1____	38_____		_20__/_09__/_2015	__Bani_____
+5.  DesignModuleReport_____   3.9.2____	49_____		_20__/_09__/_2015	__Bani_____
+6.  DesignModuleReport_____   4.4.12____77_____		_20__/_09__/_2015	__Bani_____
+7.  DesignModuleReport_____   4.6.6____	97_____		_20__/_09__/_2015	__Bani_____
+8.  DesignModuleReport_____   4.6.11____99_____		_20__/_09__/_2015	__Bani_____
+9.  DesignModuleReport_____   4.6.12____101_____		_20__/_09__/_2015	__Bani_____
+10.  DesignModuleReport_____   4.6.18____105_____		_20__/_09__/_2015	__Bani_____
+11.  DesignModuleReport_____   4.6.19____106_____		_20__/_09__/_2015	__Bani_____
+
 
 
 TIME ESTIMATES to make the change:      (Use attachment if necessary.)
 
 Lifecycle Stage    Est. Time	Act. Time	Date Comp.	Action By		Remarks
-Analysis/Design	      __________	__________	____/____/____	__________  ___________________________________
-Coding/Testing	      __________	__________	____/____/____	__________  ___________________________________
-Acceptance	      __________	__________	____/____/____	__________  ___________________________________
-Total Hours:         ________	________ 	    	                                   ____________________________
+Analysis/Design	   1.5 hrs____	__________	____/____/____	__________  ___________________________________
+Coding/Testing	   3.5 hrs____	__________	____/____/____	__________  ___________________________________
+Acceptance	      0.5 hrs___	__________	____/____/____	__________  ___________________________________
+Total Hours:       5.5 hrs___	________ 	    	                                   ____________________________
 
 Project Impact Analysis Needed:    Yes / No     (If yes, include impact on budget, resources, schedule, risk etc.)   
 
