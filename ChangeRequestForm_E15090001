@@ -1,0 +1,75 @@
+
+Change Control Form
+
+Change Request #: _E15090001______                              Project: VMCS_______________
+
+CHANGE REQUEST INITIATION:   Originator: Zhang Zhenzhen (QA) Phone#: _86498414_ email: zz.0814@gmail.com____
+
+Date Submitted: 09__/_20_/2015_   System/Product/Service Name: VMCS__________________  Version Number: _R 1.0.8______
+
+CONFIGURATION ITEMS IMPACTED:	Software: _  X       Firmware: ___	   Hardware:  ___    Documentation: _X__   Other: __________
+
+CHANGE TYPE:   New Requirement: __X_     Requirement Change: _      Design Change: __      Other: _________
+
+REASON:     Legal: ___      Market: ___     Performance: ___     Customer Request: _X__       Defect: ____  Other: _________________
+
+PRIORITY:	Emergency: ______         Urgent: _____         Routine: ___X___          Date Required: _20_/09__/_2015
+
+CHANGE DESCRIPTION: (Detail functional and/or technical information. Use attachment if necessary.)
+The system is required to provide an at-a-glance display of the cash amount available, by denomination, for collection by the Maintainer. This will enable the Maintainer to readily tally the total cash colleted and the total number of coins by denomination displayed in “Show Total Cash Held” and “Press to Collect Cash”
+Attachments: No
+
+
+TECHNICAL EVALUATION:  (Use attachment to explain changes, impact on other entities, impact on performance etc.)
+
+Received By: _Mukesh Kumar (PM) Date Received: _20_/09_/_2015  Assigned To: Lu Angxiao (TL)_  Date Assigned: 20_/_09__/2015_
+
+Type of Software/Hardware/etc. Affected_software____________________________________________________________________
+
+Modules Affected: 		       Component		Date Completed	Assigned
+1.  CoinDisplay__________     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+2.  CoinLabelItem________     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+3.  CoinLabelItemDisplay_     Maintenance_________	 	__20__/__09____/_2015_	_Bani__
+4.  MaintenanceController_    Maintenance______ 	    __20__/__09____/_2015_	_Bani__
+5.  MaintenancePanel          Maintenance             __20__/__09____/_2015_	_Bani__
+6. StoreController            Store                   __20__/__09____/_2015_	_Bani__
+7. TotalCashButtonListener    Maintenance             __20__/__09____/_2015_	_Bani__
+
+Documentation Affected: 		Section #	Page #		Date Completed	Assigned
+1.  DesignModuleReport_____   3.6.6____	34_____		_20__/_09__/_2015	__Bani_____
+2.  DesignModuleReport_____   3.6.7____	35_____		_20__/_09__/_2015	__Bani_____
+3.  DesignModuleReport_____   3.6.9____	37_____		_20__/_09__/_2015	__Bani_____
+4.  DesignModuleReport_____   3.7.1____	38_____		_20__/_09__/_2015	__Bani_____
+5.  DesignModuleReport_____   3.9.2____	49_____		_20__/_09__/_2015	__Bani_____
+6.  DesignModuleReport_____   4.4.12____77_____		_20__/_09__/_2015	__Bani_____
+7.  DesignModuleReport_____   4.6.6____	97_____		_20__/_09__/_2015	__Bani_____
+8.  DesignModuleReport_____   4.6.11____99_____		_20__/_09__/_2015	__Bani_____
+9.  DesignModuleReport_____   4.6.12____101_____		_20__/_09__/_2015	__Bani_____
+10.  DesignModuleReport_____   4.6.18____105_____		_20__/_09__/_2015	__Bani_____
+11.  DesignModuleReport_____   4.6.19____106_____		_20__/_09__/_2015	__Bani_____
+
+
+
+TIME ESTIMATES to make the change:      (Use attachment if necessary.)
+
+Lifecycle Stage    Est. Time	Act. Time	Date Comp.	Action By		Remarks
+Analysis/Design	   1.5 hrs____	__________	____/____/____	__________  ___________________________________
+Coding/Testing	   3.5 hrs____	__________	____/____/____	__________  ___________________________________
+Acceptance	      0.5 hrs___	__________	____/____/____	__________  ___________________________________
+Total Hours:       5.5 hrs___	________ 	    	                                   ____________________________
+
+Project Impact Analysis Needed:    Yes     (If yes, include impact on budget, resources, schedule, risk etc.)   
+Developer: 100 /man day  Manager: 200 /man day;
+So, total cost is 62.5 + 12.5 = 75;
+Schedule one day;
+No Risk.
+
+APPROVALS:	Change Approved: __Y      Change Not Approved: ______       Hold (Future Enhancement): ______
+                                      Release Approved: ______                     Release Date: ______
+
+1. Signature _Mukesh Kumar_____________________________   Designation _Project Manager______	Date: _20_/_09__/_2015
+
+2. Signature ____________________________________________   Designation _____________________	Date: ____/____/____
+
+3. Signature ____________________________________________   Designation _____________________	Date: ____/____/____
+
